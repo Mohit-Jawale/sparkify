@@ -14,7 +14,13 @@ After the exploratotary data analysis we found out many features which can be he
 * Different page types(Events).
 * Time from downgrade to churn.
 
-
+## Libraries 
+* pandas
+* numpy
+* pyspark.sklearn
+* pyspark
+* datetime
+* os
 
 ## Results
 After cleaning of the data and transforming it by applying various operations over it the csv of dataset is created.The data is train on two important algorithms :
