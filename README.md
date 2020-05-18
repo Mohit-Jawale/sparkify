@@ -33,3 +33,5 @@ The overall project was interesting and challenging.I enjoyed the process of fea
 
 ## Improvement
 The projec can be scaled to analysis full dataset on aws udacity to get better results. can use different supervised algorithm to improve the f1-score futher.
+
+This is link to my medium blog https://medium.com/@jawale.mohit123/how-to-stop-them-before-they-leave-1bff47959b04
